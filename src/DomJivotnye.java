@@ -1,10 +1,10 @@
-public abstract class DomJivitnye {
+public abstract class DomJivotnye {
     private int weigth;
     private int age;
     private String gender;
     private String nickName;
 
-    public DomJivitnye(int weigth, int age, String gender, String nickName) {
+    public DomJivotnye(int weigth, int age, String gender, String nickName) {
         this.weigth = weigth;
         this.age = age;
         this.gender = gender;
